@@ -1,0 +1,34 @@
+{
+	"Packages": [
+        "Fuse.Animations",
+        "Fuse.BasicTheme",
+        "Fuse.Themes",
+        "Fuse.Controls",
+        "Fuse.Designer",
+        "Fuse.Drawing",
+        "Fuse.Drawing.Primitives",
+        "Fuse.Effects",
+		 "Fuse.Elements",
+        "Fuse.Entities",
+        "Fuse.Gestures",
+        "Fuse.Navigation",
+		 "Experimental.Physics",
+        "Fuse.Scripting",
+        "Fuse.Shapes",
+        "Fuse.Triggers",
+        "Fuse.Reactive",
+        "Fuse.Android",
+        "Fuse.Desktop",
+        "Fuse.iOS",
+        "Fuse.UserEvents",
+        "FuseCore",
+        "Uno.Collections",
+        "Uno.Geometry"
+	],
+	"Includes": [
+		"HidingPanel.ux:UXFile",
+		"MainView.ux:UXFile",
+		"Resources.ux:UXFile",
+		"StateAnimation.ux:UXFile"
+	]
+}
